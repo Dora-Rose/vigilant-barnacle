@@ -5,4 +5,10 @@ Cavaliers:
 - Cavaliers Lourds
 - Cavaliers Lourd en Armure
 
+Guerriers :
+-Guerrier
+-Guerrier avec bâtons
+-Guerier épée
+- Guerrier épée deux mains
+
 

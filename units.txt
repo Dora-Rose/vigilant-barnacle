@@ -1,1 +1,8 @@
 Liste des unitées :
+
+Cavaliers:
+- Cavaliers
+- Cavaliers Lourds
+- Cavaliers Lourd en Armure
+
+

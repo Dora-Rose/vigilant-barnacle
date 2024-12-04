@@ -13,5 +13,6 @@ Guerriers :
 - Guerrier épée deux mains
 -Guerrier archés
 
-
-
+Siege:
+-Belier
+-Catapult

@@ -4,14 +4,12 @@ Cavaliers:
 - Cavaliers
 - Cavaliers Lourds
 - Cavaliers Lourd en Armure
-- Cavlier archés
 
 Guerriers :
 -Guerrier
 -Guerrier avec bâtons
 -Guerier épée
 - Guerrier épée deux mains
--Guerrier archés
 
 Siege:
 -Belier
